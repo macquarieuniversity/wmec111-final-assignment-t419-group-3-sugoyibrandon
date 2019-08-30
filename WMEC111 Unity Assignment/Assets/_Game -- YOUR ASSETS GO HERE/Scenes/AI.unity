@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 336322734}
   - component: {fileID: 336322733}
   m_Layer: 0
-  m_Name: Bot that follows the second
+  m_Name: Bot that follows Blue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2822,7 +2822,7 @@ GameObject:
   - component: {fileID: 1665405441}
   - component: {fileID: 1665405440}
   m_Layer: 0
-  m_Name: Bot that follows
+  m_Name: Bot that follows Red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3632,7 +3632,7 @@ GameObject:
   - component: {fileID: 1970969574}
   - component: {fileID: 1970969573}
   m_Layer: 0
-  m_Name: Bot that follows the third
+  m_Name: Bot that follows Green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
